@@ -1,6 +1,6 @@
 # Project-REDBLOCKS
 What is REDBLOCKS?
--_-_-_-_-_-_-_-_-_-_-_-
+
 
 REDBLOCKS is an old ROBLOX launcher designed to bring back nostalgia. Just like how revivals work, like Austiblox, Finobe, etc, just easier!
 Inspired by Sodikm, Sodikm+, ORRH [Only Retro Roblox Here] and Finobe.
@@ -16,7 +16,7 @@ Clients included in REDBLOCKS:
 2016E
 2016M
 2016L
-2017 [maybe]
+2017 [maybe soon, who knows. most 2017 clients i play are either broken or dont work]
 2019E
 2019L
 
