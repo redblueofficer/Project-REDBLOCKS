@@ -1,4 +1,4 @@
-# Project-REDBLOCKS
+REDBLOCKS Archive.
 What is REDBLOCKS?
 
 
@@ -21,3 +21,5 @@ Clients included in REDBLOCKS:
 2019L
 
 [Warning: This launcher is still in development. Soon, a non-functional testing version will be released. Please try it out and report bugs. More versions will be created in the future. Thank you for listening.
+
+This is an ARCHIVE of the original Launcher testing versions of REDBLOCKS. These arent used in the final version as we are now a revival. Feel free to download these and see what REDBLOCKS was like back during its glory days!
